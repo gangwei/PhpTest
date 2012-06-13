@@ -24,6 +24,6 @@ else {
   else {
    echo 'not json';
   }
-  //tes
+  //test
  ?>
 
